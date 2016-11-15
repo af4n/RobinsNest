@@ -1,6 +1,6 @@
 <?php
 	session_start();
-	echo "<!DOCTYPE html>\n<html><head>";
+	echo "<!DOCTYPE html><html><head>";
 	require_once 'functions.php';
 
 	use BootstrapPHP\BootstrapPHP;
